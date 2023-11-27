@@ -1,4 +1,4 @@
-![image](https://github.com/Lokeshvaran9600/Experiment--02-Implementation-of-combinational-logic-/assets/145972263/a6adecfa-14ea-44a3-9f36-4bd33537bfb7)# Experiment--02-Implementation-of-combinational-logic
+# Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
 ## AIM:
